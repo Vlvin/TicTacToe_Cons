@@ -12,9 +12,9 @@
         use any c++ compiler such as g++
         define lib classes separated by single-spaces
 
-    ** Example **
+    ### Example
         building with using g++ compiler from ubuntu build-essentials
 
         ```sh
-        ./src $ g++ ./main.cpp libs/Board.cpp libs/Player.cpp
+        /src $ g++ ./main.cpp libs/Board.cpp libs/Player.cpp
         ```
